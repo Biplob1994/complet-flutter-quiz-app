@@ -1,8 +1,8 @@
-# quiz_app
+# Flutterquiz_app
 
 A new Flutter project.
 
-## Getting Started
+## used logic and single child scrollview along with all the OOP concepts
 
 This project is a starting point for a Flutter application.
 
